@@ -102,7 +102,7 @@ It covers **frontend development**, **backend APIs**, **database design**, **com
 | QA/Testers       | Write and execute tests, report bugs                           |
 | DevOps Engineers | Handle deployment, CI/CD pipeline, infrastructure management   |
 | Product Owner    | Define feature requirements, prioritize backlog                |
-| Scrum Maste    | Facilitate agile practices, remove blockers, schedule meetings |
+| Scrum Master     | Facilitate agile practices, remove blockers, schedule meetings |
 
 ---
 
